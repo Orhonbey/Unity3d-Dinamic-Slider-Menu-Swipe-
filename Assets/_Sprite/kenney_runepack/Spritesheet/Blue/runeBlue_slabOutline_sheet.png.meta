@@ -1,9 +1,45 @@
 fileFormatVersion: 2
 guid: 93bfb6eee2eddd640bb4c8564f847869
-timeCreated: 1497888820
+timeCreated: 1497889738
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: runeBlue_slabOutline_sheet_0
+    21300002: runeBlue_slabOutline_sheet_1
+    21300004: runeBlue_slabOutline_sheet_2
+    21300006: runeBlue_slabOutline_sheet_3
+    21300008: runeBlue_slabOutline_sheet_4
+    21300010: runeBlue_slabOutline_sheet_5
+    21300012: runeBlue_slabOutline_sheet_6
+    21300014: runeBlue_slabOutline_sheet_7
+    21300016: runeBlue_slabOutline_sheet_8
+    21300018: runeBlue_slabOutline_sheet_9
+    21300020: runeBlue_slabOutline_sheet_10
+    21300022: runeBlue_slabOutline_sheet_11
+    21300024: runeBlue_slabOutline_sheet_12
+    21300026: runeBlue_slabOutline_sheet_13
+    21300028: runeBlue_slabOutline_sheet_14
+    21300030: runeBlue_slabOutline_sheet_15
+    21300032: runeBlue_slabOutline_sheet_16
+    21300034: runeBlue_slabOutline_sheet_17
+    21300036: runeBlue_slabOutline_sheet_18
+    21300038: runeBlue_slabOutline_sheet_19
+    21300040: runeBlue_slabOutline_sheet_20
+    21300042: runeBlue_slabOutline_sheet_21
+    21300044: runeBlue_slabOutline_sheet_22
+    21300046: runeBlue_slabOutline_sheet_23
+    21300048: runeBlue_slabOutline_sheet_24
+    21300050: runeBlue_slabOutline_sheet_25
+    21300052: runeBlue_slabOutline_sheet_26
+    21300054: runeBlue_slabOutline_sheet_27
+    21300056: runeBlue_slabOutline_sheet_28
+    21300058: runeBlue_slabOutline_sheet_29
+    21300060: runeBlue_slabOutline_sheet_30
+    21300062: runeBlue_slabOutline_sheet_31
+    21300064: runeBlue_slabOutline_sheet_32
+    21300066: runeBlue_slabOutline_sheet_33
+    21300068: runeBlue_slabOutline_sheet_34
+    21300070: runeBlue_slabOutline_sheet_35
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -39,7 +75,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,9 +99,529 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 372
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 372
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 372
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 372
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 372
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 372
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 372
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 279
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 279
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 279
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 279
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 279
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 279
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 186
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 186
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 186
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 186
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 186
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 186
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 93
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 93
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 93
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 93
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 93
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 93
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runeBlue_slabOutline_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
