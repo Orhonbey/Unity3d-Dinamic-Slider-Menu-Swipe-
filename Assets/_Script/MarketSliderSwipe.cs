@@ -44,11 +44,11 @@ public class MarketSliderSwipe : MonoBehaviour
     void ContentUIHandler()
     {
 
-        contentChildCount = contentPanel.childCount;
+        contentChildCount = contentPanel.childCount;// Content Altındakibütün game Objecleri Alıyorum
         Debug.Log("Content child "+contentChildCount);
-        cardPanelUIWidth = cardPanelRectTransform.rect.width;
+        cardPanelUIWidth = cardPanelRectTransform.rect.width;// Card Panel Rect transform genişliği
         Debug.Log("cardPanelWidth"+ cardPanelUIWidth);
-        cardPanelSpacingValue = contentPanel.GetComponent<HorizontalLayoutGroup>().spacing;
+        cardPanelSpacingValue = contentPanel.GetComponent<HorizontalLayoutGroup>().spacing;// Cardların ARasındaki mesafe
         Debug.Log("cardPanelSpacingValue"+ cardPanelSpacingValue);
         contentUIWidth = (((cardPanelUIWidth + cardPanelSpacingValue) * contentChildCount)-300);
         Debug.Log(contentUIWidth);
